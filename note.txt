@@ -1,0 +1,3 @@
+ remote branches are read-only
+ they allow us to see the changes made by others.
+ I can't commit or apply changes directly to the remote branches.
