@@ -4,3 +4,12 @@ Now, I'm gonna press 'esc' followed by ':wq' to exit.
 Goodbye!
 
 * note: press 'i' to insert lines and 'esc' when you;re done to return to cmd.
+
++++UPDATED+++++
+
++++UPDATED : from the second branch++++++++++
+
+updated from master++
+
+
+updated from : newbranch++:
