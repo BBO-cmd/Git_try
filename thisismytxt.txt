@@ -1,0 +1,6 @@
+Hi Im BO ntmyou
+I just entered cmd 'vi' to enter this file editing window. 
+Now, I'm gonna press 'esc' followed by ':wq' to exit. 
+Goodbye!
+
+* note: press 'i' to insert lines and 'esc' when you;re done to return to cmd.
