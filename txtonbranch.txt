@@ -1,0 +1,5 @@
+I've just made a new branch called 'mynewbranch'.
+Im gonna commit this txt file only to the new branch, not to the master.
+U understand?
+note: Now I know that I have to use esc followed by :wq to exit
+
